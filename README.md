@@ -22,27 +22,27 @@
 
 ### [1. Ineuron Project 1](https://github.com/pankaj-kb/Ineuron-Project-1)
 
-### [1. Ineuron Project 2](https://github.com/pankaj-kb/Ineuron-Project-2)
+### [2. Ineuron Project 2](https://github.com/pankaj-kb/Ineuron-Project-2)
 
-### [1. Ineuron Project 3](https://github.com/pankaj-kb/Ineuron-Project-3)
+### [3. Ineuron Project 3](https://github.com/pankaj-kb/Ineuron-Project-3)
 
-### [1. Ineuron Project 4](https://github.com/pankaj-kb/Ineuron-Project-4)
+### [4. Ineuron Project 4](https://github.com/pankaj-kb/Ineuron-Project-4)
 
-### [1. Ineuron Project 5](https://github.com/pankaj-kb/Ineuron-Project-5)
+### [5. Ineuron Project 5](https://github.com/pankaj-kb/Ineuron-Project-5)
 
-### [1. Ineuron Project 6](https://github.com/pankaj-kb/Ineuron-Project-6)
+### [6. Ineuron Project 6](https://github.com/pankaj-kb/Ineuron-Project-6)
 
-### [1. Ineuron Project 7](https://github.com/pankaj-kb/Ineuron-Project-7)
+### [7. Ineuron Project 7](https://github.com/pankaj-kb/Ineuron-Project-7)
 
-### [1. Ineuron Project 8](https://github.com/pankaj-kb/Ineuron-Project-8)
+### [8. Ineuron Project 8](https://github.com/pankaj-kb/Ineuron-Project-8)
 
-### [1. Ineuron Project 9](https://github.com/pankaj-kb/Ineuron-Project-9)
+### [9. Ineuron Project 9](https://github.com/pankaj-kb/Ineuron-Project-9)
 
-### [1. Ineuron Project 10](https://github.com/pankaj-kb/Ineuron-Project-10)
+### [10. Ineuron Project 10](https://github.com/pankaj-kb/Ineuron-Project-10)
 
-### [1. Ineuron Project 11](https://github.com/pankaj-kb/Ineuron-Project-11)
+### [11. Ineuron Project 11](https://github.com/pankaj-kb/Ineuron-Project-11)
 
-### [1. Ineuron Project 12](https://github.com/pankaj-kb/Ineuron-Project-12)
+### [12. Ineuron Project 12](https://github.com/pankaj-kb/Ineuron-Project-12)
 <br>
 
 ## Tailwind CSS
