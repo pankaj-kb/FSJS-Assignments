@@ -1,7 +1,7 @@
 # [Click here visit JSBootcamp Repo !!](https://github.com/pankaj-kb/JSBootcamp)
 <br>
 
-# Articles
+# Articles / Home Work
 <br>
 
 ## HTML / CSS
@@ -14,6 +14,8 @@
 <br>
 
 ## JavaScript
+
+### [JavaScript H.W 08 Jan 2023](https://github.com/pankaj-kb/JSBootcamp/tree/master/03%20JavaScript/08%20Jan%202023/Home%20Work)
 
 ### [JavaScript Array Methods]()
 <br>
