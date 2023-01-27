@@ -57,4 +57,4 @@
 
 ## JavaScript
 
-### [12. Ineuron Project 13](https://github.com/pankaj-kb/Ineuron-Project-13)
+### [1. Ineuron Project 13](https://github.com/pankaj-kb/Ineuron-Project-13)
