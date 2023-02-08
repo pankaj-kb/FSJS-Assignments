@@ -77,8 +77,8 @@
 
 ### [8. Ineuron Project 20](https://github.com/pankaj-kb/Ineuron-Project-20)
 
-### [9. Ineuron Project 20](https://github.com/pankaj-kb/Ineuron-Project-21)
+### [9. Ineuron Project 21](https://github.com/pankaj-kb/Ineuron-Project-21)
 
-### [10. Ineuron Project 20](https://github.com/pankaj-kb/Ineuron-Project-22)
+### [10. Ineuron Project 22](https://github.com/pankaj-kb/Ineuron-Project-22)
 
 
