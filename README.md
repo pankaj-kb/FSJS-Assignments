@@ -61,6 +61,8 @@
 
 ## JavaScript
 
+## DOM Manipulation Projects
+
 ### [1. Ineuron Project 13](https://github.com/pankaj-kb/Ineuron-Project-13)
 
 ### [2. Ineuron Project 14](https://github.com/pankaj-kb/Ineuron-Project-14)
@@ -80,5 +82,3 @@
 ### [9. Ineuron Project 21](https://github.com/pankaj-kb/Ineuron-Project-21)
 
 ### [10. Ineuron Project 22](https://github.com/pankaj-kb/Ineuron-Project-22)
-
-
