@@ -1,4 +1,4 @@
-# [Click here visit JSBootcamp Repo !!](https://github.com/pankaj-kb/JSBootcamp)
+# [Click here visit JSBootcamp Repository !!](https://github.com/pankaj-kb/JSBootcamp)
 <br>
 
 # Articles / Home Work
@@ -21,7 +21,7 @@
 
 ### HOME WORK - [JavaScript H.W 08 Jan 2023](https://github.com/pankaj-kb/JSBootcamp/tree/master/03%20JavaScript/08%20Jan%202023/Home%20Work)
 
-### 1. [JavaScript Array Methods]()
+<!-- ### 1. [JavaScript Array Methods]() -->
 <br>
 
 # Projects
@@ -82,3 +82,8 @@
 ### [9. Ineuron Project 21](https://github.com/pankaj-kb/Ineuron-Project-21)
 
 ### [10. Ineuron Project 22](https://github.com/pankaj-kb/Ineuron-Project-22)
+<br>
+
+## API Projects
+
+### [Weather Forcast App]()
