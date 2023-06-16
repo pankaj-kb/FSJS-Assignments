@@ -86,4 +86,4 @@
 
 ## React.js Projects
 
-### [1. To-Do App](https://github.com/pankaj-kb/todo-app)
+### [1. To-Do App](https://github.com/pankaj-kb/redux-todo-app)
