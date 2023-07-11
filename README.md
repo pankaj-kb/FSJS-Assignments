@@ -87,3 +87,5 @@
 ## React.js Projects
 
 ### [1. To-Do App](https://github.com/pankaj-kb/redux-todo-app)
+
+### [2. Rock-Paper-Scissors Game](https://github.com/pankaj-kb/rock-paper-scissors)
