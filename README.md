@@ -93,4 +93,4 @@
 
 ### [2. Rock-Paper-Scissors Game](https://github.com/pankaj-kb/rock-paper-scissors)
 
-### [3. MealDB API App](https://github.com/pankaj-kb/meal-sercher)
+### [3. MealDB API App](https://github.com/pankaj-kb/meal-searcher)
